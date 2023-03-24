@@ -1,3 +1,5 @@
+# https://codeforces.com/gym/430380/problem/E
+
 def merge(list1, list2):
     global k
     merged = []
